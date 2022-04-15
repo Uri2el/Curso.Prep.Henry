@@ -1,3 +1,5 @@
 Variables: define valores para almacenarlos y utilizarlos mas tarde
 string: son hilos de caracteres (letras o numeros)
 funciones: son agrupaciones de objetos, que se pueden invocar en cualquier momento
+declaraciones if: para controlar el flujo, si es verdadero devuelve un valor true y detiene la funcion de lo contrario sigue y devuelve false
+valores booleanos: son dos opciones true y false, en caso de que algo cumpla se ejecuta de lo contrario devuelve false
