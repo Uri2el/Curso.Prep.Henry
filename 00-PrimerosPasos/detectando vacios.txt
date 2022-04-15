@@ -1,0 +1,3 @@
+Variables: define valores para almacenarlos y utilizarlos mas tarde
+string: son hilos de caracteres (letras o numeros)
+funciones: son agrupaciones de objetos, que se pueden invocar en cualquier momento
